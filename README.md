@@ -94,7 +94,7 @@ A guided image editing component applies **minimal, targeted edits** (guided by 
 | <img src="assets/screens/fullpage_simplified.jpg" width="660" alt="Comparison + simplified explanation on one page"> | <img src="assets/screens/home_upload.jpg" width="400" alt="Home page with image upload drop area"> |
 
 ### Videos
-<video src="https://Abhijeet8901.github.io/laylens/assets/demo_video.mp4" controls playsinline muted width="720"></video>
+<video src="https://github.com/user-attachments/assets/3e12dbd2-b555-49a8-98b1-5d4e7a0e26ae" controls playsinline muted width="720"></video>
 
 
 ---
