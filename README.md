@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- You will supply this GIF -->
-  <img src="assets/teaser.gif"
+  <img src="assets/laylens_teaser.gif"
        alt="Teaser GIF: left = uploaded image with localized (pulsating) mask; right = plausible reconstruction with slider; bottom shows 3‑stage pipeline"
        width="1100">
 </p>
