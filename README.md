@@ -41,14 +41,31 @@ A user study (n=15) found that simplified explanations **reduced cognitive load*
 
 #### Comparison view
 - **Left:** Uploaded image with a softly **pulsating mask** over suspected manipulations  
-- **Right:** **Plausible reconstruction** of how the unaltered image might have looked  
+- **Right:** Plausible reconstruction of how the unaltered image might have looked  
 - **Slider:** Drag to compare reconstruction vs. original
+<p align="center">
+  <img src="assets/screens/comparison.png"
+       alt="Left: upload with pulsating mask; Right: reconstruction with slider"
+       width="100%">
+</p>
+
 #### Complex explanation card (technical)
 - **Verdict & area:** Whether the picture has been tampered with, and a brief **description of the tampered area** (e.g., location/region in the frame)
 - **Judgment basis:** Organized by concrete cues, for example Lighting, Edges, Resolution, Perspective relationship, Shadows, Physical laws/patterns.
+<p align="center">
+  <img src="assets/screens/explanation_complex.png"
+       alt="Complex technical explanation card"
+       width="100%">
+</p>
+
 #### Simplified explanation card (plain language)
 - **Short and simplified explanation per tampered entity** explaining the *why* in everyday terms without using technical jargon. 
 - **Emoji cue** for each entity (e.g., ✨, 🧩, 🕶️) to make scanning faster.
+<p align="center">
+  <img src="assets/screens/explanation_simplified.png"
+       alt="Simplified explanation card with emoji and edit hints"
+       width="100%">
+</p>
 
 ---
 
@@ -70,30 +87,6 @@ A vision‑language component rewrites technical rationale into concise, **non�
 A guided image editing component applies **minimal, targeted edits** (guided by the per‑region instructions) to render a plausible “original” for side‑by‑side comparison. This is for **interpretation**, not forensic proof.
 
 ---
-
-## 🖼️ Media Gallery
-
-### Screenshots
-### Comparison (mask + slider)
-<p align="center">
-  <img src="assets/screens/comparison.png"
-       alt="Left: upload with pulsating mask; Right: reconstruction with slider"
-       width="100%">
-</p>
-
-### Complex Explanation
-<p align="center">
-  <img src="assets/screens/explanation_complex.png"
-       alt="Complex technical explanation card"
-       width="100%">
-</p>
-
-### Simplified Explanation
-<p align="center">
-  <img src="assets/screens/explanation_simplified.png"
-       alt="Simplified explanation card with emoji and edit hints"
-       width="100%">
-</p>
 
 ### Videos
 <video src="https://github.com/user-attachments/assets/3e12dbd2-b555-49a8-98b1-5d4e7a0e26ae" controls playsinline muted width="720"></video>
