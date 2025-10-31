@@ -18,7 +18,7 @@
 </p>
 <p align="center"><sub>Reconstruction is a <b>plausible visualization</b>, not ground truth.</sub></p>
 
-> **Note — Artifacts only.** This repository hosts the paper, figures, screenshots, and videos. The analysis tool and code are **not publicly released**.
+> **Note: Artifacts only.** This repository hosts the paper, figures, screenshots, and videos. The analysis tool and code are **not publicly released**.
 
 ---
 
@@ -146,7 +146,11 @@ Within‑subjects study (**n = 15**) with 10 manipulated images per participant:
 - The **side‑by‑side reconstruction** was considered helpful in **69.3%** of instances.  
 - **Confidence** for future detection improved for **80%** of participants; **93.3%** expressed interest in using such a tool. 
 
-(See the paper for protocol, plots, and statistics.)
+<p align="center">
+  <img src="assets/user_study.jpg"
+       alt="User Study stats"
+       width="100%">
+</p>
 
 ---
 
