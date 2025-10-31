@@ -85,16 +85,29 @@ A guided image editing component applies **minimal, targeted edits** (guided by 
 ## 🖼️ Media Gallery
 
 ### Screenshots
-| Comparison (mask + slider) | Complex Explanation | Simplified Explanation |
-|---|---|---|
-| <img src="assets/screens/comparison.png" width="320" alt="Left: upload with pulsating mask; Right: reconstruction with slider"> | <img src="assets/screens/explanation_complex.png" width="320" alt="Complex technical explanation card"> | <img src="assets/screens/explanation_simplified.png" width="320" alt="Simplified explanation card with emoji and edit hints"> |
+### Comparison (mask + slider)
+<p align="center">
+  <img src="assets/screens/comparison.png"
+       alt="Left: upload with pulsating mask; Right: reconstruction with slider"
+       width="100%">
+</p>
 
-| Whole‑page Summary | (Optional) Home / Upload |
-|---|---|
-| <img src="assets/screens/fullpage_simplified.jpg" width="660" alt="Comparison + simplified explanation on one page"> | <img src="assets/screens/home_upload.jpg" width="400" alt="Home page with image upload drop area"> |
+### Complex Explanation
+<p align="center">
+  <img src="assets/screens/explanation_complex.png"
+       alt="Complex technical explanation card"
+       width="100%">
+</p>
+
+### Simplified Explanation
+<p align="center">
+  <img src="assets/screens/explanation_simplified.png"
+       alt="Simplified explanation card with emoji and edit hints"
+       width="100%">
+</p>
 
 ### Videos
-<video src="https://Abhijeet8901.github.io/laylens/assets/demo_video.mp4" controls playsinline muted width="720"></video>
+<video src="https://github.com/user-attachments/assets/3e12dbd2-b555-49a8-98b1-5d4e7a0e26ae" controls playsinline muted width="720"></video>
 
 
 ---
